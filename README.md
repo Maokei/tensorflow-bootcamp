@@ -8,7 +8,7 @@ Make sure you add the path to your Anaconda installation to `$PATH`.
 - Add `export PATH="/<path to anaconda>/bin:$PATH"` in .bashrc or .bash_profile.
 - Or set the `PATH` variable:  `export PATH="/<path to anaconda>/bin:$PATH"`
 
-Replace “<path to anaconda>” with the actual path to your Anaconda installation.
+Replace "<path to anaconda>" with the actual path to your Anaconda installation.
 
 To verify installation try a command such as: `conda --version` or `conda list`.
 
