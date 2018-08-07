@@ -1,6 +1,7 @@
 # data-analysis-experiment
 
-Go to [root folder README and follow instructions](../README.md)
+Be sure to follow instructions from root folder [README](../README.md) first.
+
 
 Copy the `city_search.json` to  `data-analysis-challenge/city_search.json`.
 
